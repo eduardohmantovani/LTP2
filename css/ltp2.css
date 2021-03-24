@@ -1,7 +1,13 @@
-.menu{
+.navbar-expand-sm {
     background-color: #353a40;
 }
 .form-inline{
     float:right;
 }
-    
+.painel{
+    background-color: #353a40;
+}
+#imagens img{
+    height: 400px;
+}
+
