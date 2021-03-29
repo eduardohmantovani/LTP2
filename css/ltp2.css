@@ -42,3 +42,13 @@
     background: #353a40;
     color:#fff;
 }
+.card-deck {
+    margin-left: 0px;
+    width: 100%;
+}
+#cards02{
+    padding-top: 50px;
+}
+form{
+    padding: 58px 10px 0px 10px;
+}
