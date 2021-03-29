@@ -1,6 +1,12 @@
 .navbar-expand-sm {
     background-color: #353a40;
 }
+.nav-item a{
+    color: #949da0;
+}
+.navbar-brand b{
+    color: #fff;
+}
 .form-inline{
     float:right;
 }
@@ -10,4 +16,29 @@
 #imagens img{
     height: 400px;
 }
-
+.painel02{
+    height: 100px;
+    background-color:#e9ecef;
+}
+.painel02 h2{
+    padding: 25px;
+}
+#cards{
+    padding-top: 60px;
+}
+#fundo .card-header {
+    background: #353a40;
+    color:#fff;
+}
+#fundo .card-img-top{
+    background: #353a40;
+    color:#fff;
+}
+#fundo .card-body{
+    background: #353a40;
+    color:#fff;
+}
+#fundo .card-footer{
+    background: #353a40;
+    color:#fff;
+}
