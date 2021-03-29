@@ -1,6 +1,7 @@
 .navbar-expand-sm {
     background-color: #353a40;
 }
+
 .nav-item a{
     color: #949da0;
 }
@@ -49,6 +50,6 @@
 #cards02{
     padding-top: 50px;
 }
-form{
+#formulario{
     padding: 58px 10px 0px 10px;
 }
